@@ -19,6 +19,7 @@ Anyways, so if you spend 11000 yen ($110~ CAD) on goods (no albums) you get a CH
 
 Nonetheless, I should be happy that I even had the chance to attend, since it was purely luck really. Plus, I'm already very content with what I got! I guess that's why companies do these promotional things, to target victims like me into spending more 😭
 
+![Kyujin and Jiwoo album bonuses](pics/oct-kyujin_and_jiwoo.heic)
 ## THAILAND
 GOING TO THAILAND SOON!!! It's been SIX (6) years since I've gone and I'm super excited. Will be there with family from Canada (parents, aunt) and of course my Thai family. Honestly I've been there a lot so sightseeing isn't a main priority. As such, I'm just going to spend it eating Thai food, tropical fruits, Thai desserts, and hunting for kpop albums!
 
