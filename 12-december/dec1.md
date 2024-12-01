@@ -1,0 +1,42 @@
+# We woo wammus
+Just a bored Sunday evening, not much has happened but I'll recount the interesting ones!
+
+## Shibuya, Tuesday, 151
+I went into the office to lock in and grind out some final features for our full stack app. I honestly don't even remember what I did but it worked out in the end and both our DEV and QA deployments were up and running. Good stuff.
+
+After the work day finished I grabbed tsukemen with my intern coworkers. Had a great chat, talking about the experiences of the Japanese new grad who went to school in America. Once we said our goodbyes, I headed to the Pokemon Center Shibuya with one goal: purchase some packs of surging sparks to open. Well, I got more than I bargained for. Pokemon 151 singles were in stock. Bought 5 and the pulls were... lackluster. Two exes and just holos. I guess the low pull rates weren't a lie. All good- this week Terastal Festival releases, and along with it the coveted eeveelution lines. Hopefully this fares better!
+
+## An offer appears
+Ah-ha. So something cool happened between last entry and this one. I talked about how I would reminisce my time in Japan once I left. Well, it turns out instead of reminiscing, I have the chance to continue it. One of the technical managers on my team reached out and said that a new position is being created in our area, and that my division manager immediately looked to offer the position to me. It'd be a new grad role, and I'd probably be coming back in July/August but working in a C# focused role.
+
+This actually aligns very well with the technology I want to work with throughout my career: C#, distributed systems-focused applications. I have a strong basis in it, and its features intrigue me with respect to the programming areas that look cool to me: distributed computing and parallelism.
+
+Anyways, now I'm sort of conflicted. I have a verbal offer from my previous co-op in Waterloo, and so my choices are now twofold. 
+
+Firstly, I can take the Waterloo position, continue the life that I've known my whole life, build up some savings by living at home, and see where things take me in a couple of years. By choosing to stay in Canada, I have the opportunity to find new, exciting, and higher-paying positions every year, and not to mention the ability to work my way over to California, if I really want to. Additionally, the benefits, work-life balance, type of work, and the team I worked in was quite honestly the best I've experienced.
+
+Secondly of course is to return to my current, Tokyo-office-based company. I'd be plunging back into the life I currently live, but hopefully with some changes. I honestly don't think I could continue the current life I'm living forever. I would probably develop some mental health issues, in the sense that my apartment is NOT a suitable living space. Temporary, okay that's fine, but definitely not for years on end. I have 11m^2. I have no living room. I have no over, no microwave. I have no space to store my merchandise, which I absolutely love purchasing. In-fact, if I stayed here in Tokyo I'd be giving up a lot of personal space at home as opposed to my Canadian lifestyle. In all honestly, I might even give up on my collecting hobbies if I stayed here into the foreseeable future. Why should I collect Anime Figures, and Kpop albums that I can't display? That's again my pessimistic side appearing, so let's stay hopeful for now. In conclusion really, it depends on the compensation package. Benefits and salary. I'd need enough to rent at least a studio, save money, and spend on my hobbies at will. I'd want to get a car here, while enjoying what the city has to offer on weekends.
+
+The unknown is the scariest thing in life. What will life be like in 1 years, 2 years, 5 years, 10 years, 20 years, 50 years? Things change, and throughout my life I have hated change. I don't like changing my lifestyle, and when things go out of the schedule I have in my head, it messes with my rhythm and quite frankly ruins my mood. But, oddly enough, when weighing my two options I'm somehow at ease. I don't feel stressed, or worried. I feel like this decision is the biggest crossroad I will ever encounter in my life, but it doesn't scare me, because really, both options are amazing.
+
+When I was in middle school I was worried that I'd enter university and not find a job after graduating. This is still very true for a lot of people today, and even more so during the downsizing in the tech industry. Sometimes I forget that my truest goal in university was to just get a job. And now that I'm faced with the truth that I in fact have to options, deep down, I think that's why I'm at ease- the little guy hanging on my shoulders was knocked away by two angels.
+
+I guess what I could really do is work in Japan for however many years I feel like, then return to Canada. Networking is an amazing thing, and I can reach out to my previous manager down the line. A small worry to me is if my experiences in Japan will translate into the tech mecca of the world, North America. But in truth, it will. Maybe (pessisimistically saying) not as much, but it's not like it's worthless. Again, pessimism.
+
+I think at the end of the day my options are: continue my current life and my current goals: get a car- or dive back into a familiar life, and find new short-term and long-term goals.
+
+(Oh yeah, and I had another interview this week for a new grad role that a recruiter reached out to me for. It's a Toronto-based company with a starting base salary of 90-110k, with benefits. Super intriguing, but I really need to refresh on my leetcode if I want a chance at this job. I didn't know where to fit this in, so take it here as a footnote)
+
+## Friday Night Lights
+So we (okay not me the other intern) presented the web app to the Finance division at the townhall. I think it was very well received. There were no issues and everyone else loved talking to the other intern about the app (I just stood there because I'm a chill guy I guess). Afterwords, me and him and his friend went to a nearby sushi place we hit up earlier in the year. I don't know why but it tasted 10x better than the last time. Frankly, tuna is amazing.
+
+Afterwards, we grabbed gelato and chatted a bit. Took a stroll around the city looking at a christmas display on a building roof (it was worth it). Chatted a bit then went to karaoke. Super fun, and I don't think the west can compare. I haven't even been to one but I know n the west karaoke is something like double the price, which is a wallet drainer. For us it was 700yen per hour + drinks, during a high-demand time. Not bad for Tokyo. Also, I recommend continuously ordering drinks otherwise your throat WILL die.
+
+## Saturday in Daiba
+The same band of three from Friday moved on over to Daiba on Saturday. Not much happened really. We ate at the food court, then ran the arcade for probably two hours. The other intern spent maybe 2000 yen trying to get this Pekora pillow- which he did! So many tries, walking around, resetting the mind and continously returning to try it in probably 3 playing sessions really did bring out a dub for the boys. I can only imagine the elation he went through; is what I would say if I didn't win anything! I decided I also wanted to win something, so I tried the pokemon plushies for about 500 yen in total. There was this tiny fast spinning one which was too much for me mentally. I tried the bigger ones but the technique wasn't there for me. Screw it then, let's try the double-pole, flat laying anime one. First two tries: misses. Next one, huh I turned it a bit. Looking good. Next one, more turning... good. Next one, BOOOM, MASHA HAS DROPPED. What a MOMENT for me. I never thought I would win one of those games, but luck turned out to be on my side this week. Super, duper happy, and it's a figure I'll probably never sell.
+
+Afterwards we ran some games. Taiko, maimai, some guitar hero one where all three of us played in a band (guitar, bass, drum). Fun stuff. Finished off the day walking around Daiba looking at the view. Highly recommended at night, since you can look across the bay over to the downtown Tokyo. There's a bridge and nice illumination within Daiba. Oh, and way less people than downtown Tokyo.
+
+Oh yeah I opened a case hardened kukri knife this week. Field tested with the 'gold gem' pattern on the playside- if it's even worth anything. Thanks Ivan!
+
+That's it for now. I'm hungry and it's TFT time!
